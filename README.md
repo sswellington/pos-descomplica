@@ -1,2 +1,1 @@
-# analise-desenvolvimento-programas
-Pós em Análise e Desenvolvimento de Programas
+# Pós-Graduação em Análise Desenvolvimento de Programas
