@@ -1,0 +1,13 @@
+Bom dia a todos,
+
+Hoje, quero compartilhar com vocês sobre o impacto da saúde pública através da disputa entre as grandes empresas de tecnologia, também conhecidas como Big Techs, como Amazon, Google, Facebook e Apple.
+
+Durante a pandemia de COVID-19, estas empresas foram destacadas devido a seu poder excessivo e previsões de lucro, mas não podemos negar a importância que desempenham na saúde. Elas estão oferecendo soluções inovadoras, como monitorização remota de pacientes, análise de dados médicos com inteligência artificial e telemedicina acessível. Estas tecnologias estão ajudando a melhorar a qualidade dos cuidados médicos e a eficiência dos sistemas de saúde.
+
+A inteligência artificial é uma tecnologia avançada que permite a análise de grandes quantidades de dados médicos em questão de segundos. Isso ajuda a identificar padrões e tendências que podem levar a novas descobertas e avanços na medicina. Além disso, a IA também pode ser usada para ajudar a personalizar tratamentos médicos para pacientes individuais, tornando-os mais efetivos.
+
+A monitorização remota de pacientes permite aos profissionais de saúde monitorar o estado de saúde dos pacientes sem a necessidade de visitas presenciais, o que é uma vantagem para pacientes que moram em áreas remotas ou para aqueles com doenças crônicas que precisam de atenção constante.
+
+A telemedicina, por sua vez, tem sido facilitada pela tecnologia, permitindo que pacientes consultem médicos remotamente, sem precisar sair de casa, o que é uma vantagem para pacientes com doenças que dificultam a saída de casa e para aqueles que moram em áreas remotas sem acesso a um hospital próximo.
+
+A tecnologia também auxilia os profissionais de saúde na melhoria da qualidade de seu trabalho, incluindo a automatização de tarefas rotineiras, acesso a informações médicas atualizadas e precisas, treinamento virtual para manterem-se atualizados, e aprimoramento da comunicação e colaboração entre profissionais. Isso libera mais tempo para os profissionais se concentrarem em tarefas mais complexas e importantes,
